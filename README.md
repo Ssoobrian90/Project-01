@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Wireshark for Basic Network Security Analysis (AlgoExpert)</b>
+- <b>Wireshark for Basic Network Security Analysis(</b>
   - [Capture and Analyze Network Traffic](https://github.com/Ssoobrian90/wireshark)
 - <b>AWS Identity and Access Management (IAM)</b>
   - [Escalate Privileges ](https://github.com/Ssoobrian90/aws) 
