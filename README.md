@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wireshark for Basic Network Security Analysis (AlgoExpert)</b>
-  - [Capture and Analyze Traffic](https://github.com/Ssoobrian90/wireshark)
+  - [Capture and Analyze Network Traffic](https://github.com/Ssoobrian90/wireshark)
 - <b>AWS Identity and Access Management (IAM)</b>
   - [Escalate Privileges ](https://github.com/Ssoobrian90/aws) <b><i>(Potentially NSFW)</b></i>
 - <b>Cisco Packet Tracer</b>
@@ -21,7 +21,7 @@
 
 <h2>🎓 Education </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Massachusetts institute of Technology](https://certificates.emeritus.org/c68b0ce0-87b8-4a07-a7cd-9f56aa933d73#gs.7xiiey)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
