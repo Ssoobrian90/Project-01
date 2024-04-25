@@ -5,7 +5,7 @@
 - <b>Wireshark for Basic Network Security Analysis (AlgoExpert)</b>
   - [Capture and Analyze Traffic](https://github.com/Ssoobrian90/wireshark)
 - <b>AWS Identity and Access Management (IAM)</b>
-  - [Image Analysis Middleware](https://github.com/Ssoobrian90/aws) <b><i>(Potentially NSFW)</b></i>
+  - [Escalate Privileges ](https://github.com/Ssoobrian90/aws) <b><i>(Potentially NSFW)</b></i>
 - <b>Cisco Packet Tracer</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
