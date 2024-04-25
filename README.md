@@ -19,7 +19,7 @@
 <h2>🎓 Education </h2>
 
 - [Massachusetts Institute of Technology](https://certificates.emeritus.org/c68b0ce0-87b8-4a07-a7cd-9f56aa933d73#gs.7xiiey)
-- [Baxter Clewis Training Academy](https://imgur.com/undefined)
+- [Baxter Clewis Training Academy](https://imgur.com/a/o4Vbh67)
 - [Coursera/Google](https://coursera.org/share/aa16d2670f41c260e4c26ebec62fc07b)
 - SUNY Orange
 
