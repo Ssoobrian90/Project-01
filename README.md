@@ -15,13 +15,24 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>2017 Equifax Data Breach Capstone Case Study</b>
 
+
 <h2>🎓 Education </h2>
 
 - [Massachusetts Institute of Technology](https://certificates.emeritus.org/c68b0ce0-87b8-4a07-a7cd-9f56aa933d73#gs.7xiiey)
 - [Baxter Clewis Training Academy](https://imgur.com/undefined)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Coursera/Google](https://coursera.org/share/aa16d2670f41c260e4c26ebec62fc07b)
+- SUNY Orange
+
+<h2>🎖️ Certifications </h2>
+
+- [ServiceNow Associate Administrator](https://imgur.com/7NCSIO2)
+- [Qualys Endpoint Detection and Response (EDR)](https://imgur.com/f14xVpY)
+- [AWS Identity and Access Management](https://coursera.org/share/98390fc86f152bb5fceeb1d51b949530)
+- [Wireshark for Basic Network Security Analysis](https://coursera.org/share/ee16c160967a26b7ca87f9e5740544d2)
+- [Microsoft Windows Defender and Firewall](https://coursera.org/share/a480130b208baf146cab444684c67dfb)
+- [Google Data Analytics](https://www.credly.com/badges/1299c7ef-311b-484c-b494-a581866b85d4/public_url)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
