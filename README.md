@@ -10,7 +10,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>ServiceNow Systems Administration</b>
-  - [Incident Management](https://github.com/Ssoobrian90/ServiceNow)
+  - [Incident Response/Vulnerability Management](https://github.com/Ssoobrian90/ServiceNow)
 - <b>Microsoft Windows Defender and Firewall </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>2017 Equifax Data Breach Capstone Case Study</b>
