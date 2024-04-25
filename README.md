@@ -21,8 +21,8 @@
 
 <h2>🎓 Education </h2>
 
-- [Massachusetts institute of Technology](https://certificates.emeritus.org/c68b0ce0-87b8-4a07-a7cd-9f56aa933d73#gs.7xiiey)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Massachusetts Institute of Technology](https://certificates.emeritus.org/c68b0ce0-87b8-4a07-a7cd-9f56aa933d73#gs.7xiiey)
+- [Baxter Clewis Training Academy](https://imgur.com/undefined)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
