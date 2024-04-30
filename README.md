@@ -14,7 +14,7 @@
 - <b>Microsoft Windows Defender and Firewall </b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>2017 Equifax Data Breach Capstone Case Study</b>
- - [Power Point Presentation)](https://drive.google.com/file/d/1qwRDraqFJS0_SVK1JuzB-tgex7xbxppK/view?usp=share_link)
+ - [Power Point Presentation](https://drive.google.com/file/d/1qwRDraqFJS0_SVK1JuzB-tgex7xbxppK/view?usp=share_link)
 
 
 <h2>🎓 Education </h2>
