@@ -7,7 +7,7 @@
 - <b>AWS Identity and Access Management (IAM)</b>
   - [Escalate Privileges ](https://github.com/Ssoobrian90/aws) 
 - <b>Cisco Packet Tracer</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Logical and Physical Exploration](https://github.com/Ssoobrian90/CiscoPacketTracer.git)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>ServiceNow Systems Administration</b>
   - [Incident Response/Vulnerability Management](https://github.com/Ssoobrian90/ServiceNow)
