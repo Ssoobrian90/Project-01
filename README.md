@@ -15,6 +15,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>2017 Equifax Data Breach Capstone Case Study</b>
   - [Power Point Presentation](https://drive.google.com/file/d/1qwRDraqFJS0_SVK1JuzB-tgex7xbxppK/view?usp=share_link)
+  - [Overview with Defensive/Offensive Recommendations](https://drive.google.com/file/d/1y0PLOTxCcA3O7K9j-RpHa4HZmT2n-CRe/view?usp=share_link)
 
 
 <h2>🎓 Education </h2>
