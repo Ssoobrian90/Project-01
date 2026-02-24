@@ -25,6 +25,7 @@
 
 <h2>🎖️ Certifications </h2>
 
+- [CompTia Security+](https://www.credly.com/badges/46a11bbe-3195-470d-abf3-c98935521d6e/linked_in_profile)
 - [ServiceNow Associate Administrator](https://imgur.com/7NCSIO2)
 - [Qualys Endpoint Detection and Response (EDR)](https://imgur.com/f14xVpY)
 - [AWS Identity and Access Management](https://coursera.org/share/98390fc86f152bb5fceeb1d51b949530)
